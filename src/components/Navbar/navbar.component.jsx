@@ -70,7 +70,7 @@ const NavLg = () => {
 const Navbar = () => {
   return (
     <>
-      <nav className="bg-gray-700 p-4">
+      <nav className="bg-bms-700 p-4">
         <div className="md:hidden">
           {/* Mobile screen */}
           <NavSm />
